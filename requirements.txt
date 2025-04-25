@@ -5,4 +5,5 @@ pandas>=1.5.0
 plotly>=5.13.0
 pillow>=9.4.0
 matplotlib>=3.7.0
-sympy>=1.11.0 
+sympy>=1.11.0
+scikit-learn>=1.0.0 
