@@ -15,7 +15,7 @@ CVLA is an advanced educational platform for exploring Complex Variables and Lin
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/complex-visualizer.git
+git clone https://github.com/divyanshupatel17/complex-visualizer.git
 cd complex-visualizer
 
 # Install dependencies
